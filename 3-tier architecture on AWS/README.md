@@ -12,7 +12,8 @@ To set up a 3-tier architecture, you can follow these general steps:
 
 ## Data Tier (Database):
 - Use Amazon RDS for a managed relational database service, or Amazon DynamoDB for a NoSQL database.
-- Create a database instance, configure security settings, and connect it to your application tier.
+- Create a database instance, configure security settings, and connect it to your application tier
 
+- ![3-tier architecture](https://github.com/udaychopade27/AWS-Projects/assets/133924961/1c350db2-cffb-4963-ad7e-46024c14584f)
  
 
